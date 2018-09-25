@@ -1,0 +1,26 @@
+{
+  "name": "reactjs-ninja",
+  "version": "1.0.0",
+  "description": "Curso ReactJs Ninja Módulo 1 do Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/renatodesigner/react-webpack.git"
+  },
+  "keywords": [
+    "reactjs",
+    "webpack"
+  ],
+  "author": "RenatoDesigner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/renatodesigner/react-webpack/issues"
+  },
+  "homepage": "https://github.com/renatodesigner/react-webpack#readme",
+  "devDependencies": {
+    "webpack": "^1.15.0"
+  }
+}
